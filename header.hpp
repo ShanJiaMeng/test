@@ -1,1 +1,2 @@
 cclog("hello");
+addPosition();
